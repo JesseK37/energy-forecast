@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# MLflow
+mlruns/
+mlartifacts/
+*.db
+
+# Environment variables
+.env
+.env.*
+
+# GCP credentials
+*.json
+application_default_credentials.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
