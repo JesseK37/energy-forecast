@@ -146,3 +146,9 @@ energy-forecast/
 ## Stack
 
 Python · LightGBM · MLflow · Google Cloud Functions · BigQuery · Google Cloud Storage · Cloud Scheduler · Open-Meteo API · EIA API
+
+## Author
+
+Jesse Koivu — Pure mathematics PhD, transitioning to data science. This project is part of a portfolio demonstrating Cloud usage and Machine Learning in an end-to-end MLOps pipeline.
+
+[[LinkedIn](https://www.linkedin.com/in/jesse-koivu-b3b0a72b5/)] · [[GitHub](https://github.com/JesseK37)]
